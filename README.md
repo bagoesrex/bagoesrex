@@ -20,7 +20,7 @@
 
 #### Front-end
 
-[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)
 
 #### Back-end
 
