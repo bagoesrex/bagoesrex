@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align='center'>
+  Bagus Rahmawan
+</h1>
 
-<!--
-**bagoesrex/bagoesrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align=center>Mobile Developer | System Information Student | Foss Enthusiast</h3>
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 👨🏻
+
+- 👨🏻‍💼 My name is `Bagus Rahmawan`
+- 🏠 Live in `Semarang, Indonesia`
+- 👶🏻 Born in `Kendal, 1st April 2005`
+- 🧍🏻‍♂️ `19` years old
+- 🌟 Currently Learning `Kotlin`, and `JavaScript` are my favorite tech.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Skill Set
+
+#### Front-end
+
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+#### Back-end
+
+[![My Backend Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+#### Mobile-development
+
+[![My Backend Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
