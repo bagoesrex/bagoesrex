@@ -1,39 +1,16 @@
-<h1 align='center' class="no-underline">
-  Bagus Rahmawan
-<h3 align=center>Mobile Developer | System Information Student | Foss Enthusiast</h3>
-</h1>
+# About Me
 
+<img align="right" alt="CoelacanthusHex's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=bagoesrex&show_icons=true">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Here is BagoesRex.
 
-### About Me 👨🏻
+You can call me Kyrex.
 
-- 👨🏻‍💼 My name is `Bagus Rahmawan`
-- 🏠 Live in `Semarang, Indonesia`
-- 👶🏻 Born in `Kendal, 1st April 2005`
-- 🧍🏻‍♂️ `19` years old
-- 🌟 Currently Learning `Kotlin`, and `JavaScript` are my favorite tech.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### Skill Set
-
-#### Front-end
-
-[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)
-
-#### Back-end
-
-[![My Backend Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-
-#### Full-Stack
-
-[![My Full Stack Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-
-#### Mobile-development
-
-[![My Backend Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
-
-#### IDE
-
-[![My IDEs](https://skillicons.dev/icons?i=androidstudio,vscode)](https://skillicons.dev)
+- :hammer_and_pick: Java / Kotlin / C# / JS
+- :man: Man / INFP
+- :keyboard: I arch's user btw
+- :man: Pronouns: he / him / rex
+- :video_game: Growtopia (GID: KyrexS)
+- :computer: Arch Linux
+- :telephone_receiver: [![Call me via Proton](https://img.shields.io/static/v1?label=Proton&message=bagoesrex@proton.me&color=blue&style=flat-square)](mailto:bagoesrex@proton.me)
+- :email: [![Send me Email](https://img.shields.io/static/v1?label=Email&message=bagoesrex@gmail.com&color=blue&style=flat-square)](mailto:bagoesrex@gmail.com)
