@@ -6,11 +6,10 @@ Here is BagoesRex.
 
 You can call me Kyrex.
 
-- :hammer_and_pick: Java / Kotlin / C# / JS
+- :hammer_and_pick: Java / Dart(Flutter) / Kotlin / C# / JS
 - :man: Man / INFP
 - :keyboard: I arch's user btw
 - :man: Pronouns: he / him / rex
-- :video_game: Growtopia (GID: KyrexS)
 - :computer: Arch Linux
 - :telephone_receiver: [![Call me via Proton](https://img.shields.io/static/v1?label=Proton&message=bagoesrex@proton.me&color=blue&style=flat-square)](mailto:bagoesrex@proton.me)
 - :email: [![Send me Email](https://img.shields.io/static/v1?label=Email&message=bagoesrex@gmail.com&color=blue&style=flat-square)](mailto:bagoesrex@gmail.com)
