@@ -1,15 +1,61 @@
-# About Me
+<h2 align="center">About Me </h2>
 
-<img align="right" alt="CoelacanthusHex's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=bagoesrex&show_icons=true">
+```dart
+class Kyrex {}
 
-Here is BagoesRex.
+class Attributes extends Kyrex {
+  List<String> get contact {
+    String telegram = "t.me/bagoesrex";
+    String instagram = "instagram.com/bagoesrex";
+    String email = "bagoesrex@gmail.com";
 
-You can call me Kyrex.
+    return [telegram, instagram, email];
+  }
 
-- :hammer_and_pick: Java / Dart(Flutter) / Kotlin / C# / JS
-- :man: Man / INFP
-- :keyboard: I arch's user btw
-- :man: Pronouns: he / him / rex
-- :computer: Arch Linux
-- :telephone_receiver: [![Call me via Proton](https://img.shields.io/static/v1?label=Proton&message=bagoesrex@proton.me&color=blue&style=flat-square)](mailto:bagoesrex@proton.me)
-- :email: [![Send me Email](https://img.shields.io/static/v1?label=Email&message=bagoesrex@gmail.com&color=blue&style=flat-square)](mailto:bagoesrex@gmail.com)
+  Map<String, dynamic> get life {
+    List<String> langs = ['Bahasa', 'English'];
+    int age = 20;
+
+    return {'langs': langs, 'age': age};
+  }
+
+  Map<String, dynamic> get coding {
+    Map<String, List<String>> langs = {
+      'intermediate': ['kotlin', 'dart'],
+      'learning': ['c#', 'javascript', 'typescript'],
+    };
+
+    List<String> specialities = [
+      'mobile developer',
+      'fullstack',
+      'android modder',
+    ];
+
+    List<String> ide = ['vscode'];
+
+    Map<String, dynamic> pc = {
+      'Windows': {
+        'custom': {
+          'processor': 'AMD ryzen 3 5300U',
+          'ram': '16gb',
+          'gpu': 'AMD Radeon RX Vega 6',
+        },
+      },
+    };
+
+    return {'langs': langs, 'specialities': specialities, 'ide': ide, 'pc': pc};
+  }
+}
+```
+
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,react,dart,kotlin,cs,vscode,androidstudio" />
+  </a>
+</p>
+
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=bagoesrex&theme=tokyonight&show_icons=true">
+</p>
