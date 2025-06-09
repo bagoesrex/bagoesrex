@@ -56,6 +56,10 @@ class Attributes extends Kyrex {
   </a>
 </p>
 
-<p href="https://discord.gg/onlp" align="center">
+<p align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=bagoesrex&theme=tokyonight&show_icons=true">
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=bagoesrex&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
