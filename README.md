@@ -1,5 +1,6 @@
+<h3 align="center">" ^-^ "<h3>
 
-![Logo](./images/mymine.webp)
+![Logo](./images/mymine.png)
 
 <h2 align="center">About Me </h2>
 
