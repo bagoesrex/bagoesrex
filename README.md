@@ -25,8 +25,8 @@ class Attributes extends Kyrex {
 
   Map<String, dynamic> get coding {
     Map<String, List<String>> langs = {
-      'intermediate': ['kotlin', 'dart'],
-      'learning': ['c#', 'javascript', 'typescript'],
+      'intermediate': ['kotlin', 'dart', 'javascript', 'typescript'],
+      'learning': ['c#', 'go'],
     };
 
     List<String> specialities = [
@@ -56,7 +56,7 @@ class Attributes extends Kyrex {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,react,dart,kotlin,cs,vscode,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,react,dart,kotlin,nextjs,tailwindcss,flutter,vscode,androidstudio" />
   </a>
 </p>
 
