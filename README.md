@@ -1,8 +1,4 @@
-<h3 align="center">" ^-^ "<h3>
-
-![Logo](./images/mymine.png)
-
-<h2 align="center">About Me </h2>
+<h2 align="center">^-^ About Me ^-^</h2>
 
 ```dart
 class Kyrex {}
