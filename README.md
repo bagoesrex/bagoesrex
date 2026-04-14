@@ -14,7 +14,7 @@ class Attributes extends Kyrex {
 
   Map<String, dynamic> get life {
     List<String> langs = ['Bahasa', 'English'];
-    int age = 20;
+    int age = 21;
 
     return {'langs': langs, 'age': age};
   }
