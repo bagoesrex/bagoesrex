@@ -12,7 +12,7 @@
 
 ## About me
 
-I enjoy building mobile and web applications, exploring Android customization, and learning new technologies. I primarily work with Kotlin, JavaScript, and TypeScript.
+I enjoy building mobile and web applications, exploring Android customization, and learning new technologies. I primarily work with TypeScript.
 
 ```ts
 type Proficiency = "intermediate" | "learning";
@@ -36,7 +36,7 @@ class Kyrex {
   readonly languages = ["Bahasa Indonesia", "English"] as const;
 
   readonly coding: Record<Proficiency, readonly string[]> = {
-    intermediate: ["Kotlin", "Dart", "JavaScript", "TypeScript"],
+    intermediate: ["Kotlin", "PHP","Dart", "JavaScript", "TypeScript"],
     learning: ["C#", "Go"],
   };
 
@@ -73,25 +73,8 @@ class Kyrex {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,react,dart,kotlin,nextjs,tailwindcss,flutter,vscode,androidstudio" alt="Technology skills" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,react,dart,kotlin,nextjs,tailwindcss,php,flutter,vscode,androidstudio" alt="Technology skills" />
   </a>
-</p>
-
-## Development setup
-
-| Device | Specifications | Main use |
-| --- | --- | --- |
-| Lenovo LOQ 15IRX9 | Intel Core i5 13th Gen · 16 GB RAM · NVIDIA GeForce RTX 3050 | Primary development and gaming |
-| Lenovo 14ALC7 | AMD Ryzen 3 5300U · 16 GB RAM · AMD Radeon RX Vega 6 | Portable and secondary development |
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagoesrex&theme=tokyonight&show_icons=true&hide_border=true" alt="Bagoes Rex's GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bagoesrex&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="Bagoes Rex's GitHub streak" />
 </p>
 
 <p align="center">
