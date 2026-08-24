@@ -18,7 +18,7 @@ I enjoy building mobile and web applications, exploring Android customization, a
 type Proficiency = "intermediate" | "learning";
 
 interface Laptop {
-  brand: "Lenovo";
+  brand: string;
   model: string;
   processor: string;
   memory: string;
