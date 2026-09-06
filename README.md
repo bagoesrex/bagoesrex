@@ -1,14 +1,6 @@
-<h1 align="center">Hi, I'm Bagoes Rex 👋</h1>
-
-<p align="center">
-  Mobile developer • Full-stack developer • Android modder
-</p>
-
-## About me
+<h1>Hi, I'm Bagoes Rex 👋</h1>
 
 I'm a **Mobile & Full-stack Developer** passionate about building intuitive mobile and web applications.
-
-I enjoy exploring Android customization as an Android modder — tweaking, modding, and pushing the limits of what Android can do. Always curious, always building.
 
 ## Skills
 
